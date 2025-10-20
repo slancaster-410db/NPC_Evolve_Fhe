@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\lib-service-serializer\adapter-registry\order-sms-base.txt
+// Generated at: 2025-10-20T16:21:58.951Z
